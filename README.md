@@ -2,7 +2,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFkd3V4NHF3cXFzdHd3bDFxNTNpOHB0MG4xZWtmdDc1dHg0ZG83MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0IyfKMG8wCXoQCuA/giphy.gif" width="50" style="position:relative; top:15px">
 </h2>
 
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpxY2h0ZXJ2ZzBjcHcwZ3ZyeXNmejYweGJmcGNxdXhuZ2dmcHRsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlvseq9yvZhba/giphy.gif" width="230" style="border-radius:50%">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenB1Z3hrdXAxYXI5b2pyMWp3NTliNzU5dDZyenR3bXQ2M2NraTdqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
 `// Software Enginner and father of two cats`
 
