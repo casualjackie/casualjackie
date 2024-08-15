@@ -8,7 +8,7 @@
 
 [![Telegram: Evgeniy Polishchuk](https://img.shields.io/badge/EvgeniyPolishchuk-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/evgeniy_polishchuk)
 [![Linkedin: Evgeniy Polishchuk](https://img.shields.io/badge/-EvgeniyPolishchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evgeniy-polishchuk/)](https://www.linkedin.com/in/evgeniy-polishchuk/)
-[![GitHub: Evgeniy Polishchuk](https://img.shields.io/github/followers/CasualJackie?label=follow&style=social)](https://github.com/CasualJackie)
+[![GitHub: Evgeniy Polishchuk](https://img.shields.io/github/followers/casualjackie?label=follow&style=social)](https://github.com/casualjackie)
 
 ### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkOXNwdjR2ZGFheTFybzVmaWxqb2RkZ2F1NXNvaWhiNWR5bjI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" width="50"> A little more about me...
 
