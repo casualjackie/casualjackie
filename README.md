@@ -6,8 +6,8 @@
 
 `// Software Enginner and father of two cats`
 
-[![Telegram: Yevhenii Polishchuk](https://img.shields.io/badge/YevheniiPolishchuk-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Yevhenii_polishchuk)
-[![Linkedin: Yevhenii Polishchuk](https://img.shields.io/badge/-YevheniiPolishchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yevhenii-polishchuk/)](https://www.linkedin.com/in/Yevhenii-polishchuk/)
+[![Telegram: Yevhenii Polishchuk](https://img.shields.io/badge/YevheniiPolishchuk-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/casualjackie)
+[![Linkedin: Yevhenii Polishchuk](https://img.shields.io/badge/-YevheniiPolishchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yevhenii-polishchuk/)](https://www.linkedin.com/in/yevhenii-polishchuk/)
 [![GitHub: Yevhenii Polishchuk](https://img.shields.io/github/followers/casualjackie?label=follow&style=social)](https://github.com/casualjackie)
 
 ### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkOXNwdjR2ZGFheTFybzVmaWxqb2RkZ2F1NXNvaWhiNWR5bjI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" width="50"> A little more about me...
