@@ -1,4 +1,4 @@
-<h2>Hi, I'm Evgeniy Polishchuk!
+<h2>Hi, I'm Yevhenii Polishchuk!
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFkd3V4NHF3cXFzdHd3bDFxNTNpOHB0MG4xZWtmdDc1dHg0ZG83MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0IyfKMG8wCXoQCuA/giphy.gif" width="50" style="position:relative; top:15px">
 </h2>
 
@@ -6,14 +6,14 @@
 
 `// Software Enginner and father of two cats`
 
-[![Telegram: Evgeniy Polishchuk](https://img.shields.io/badge/EvgeniyPolishchuk-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/evgeniy_polishchuk)
-[![Linkedin: Evgeniy Polishchuk](https://img.shields.io/badge/-EvgeniyPolishchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evgeniy-polishchuk/)](https://www.linkedin.com/in/evgeniy-polishchuk/)
-[![GitHub: Evgeniy Polishchuk](https://img.shields.io/github/followers/casualjackie?label=follow&style=social)](https://github.com/casualjackie)
+[![Telegram: Yevhenii Polishchuk](https://img.shields.io/badge/YevheniiPolishchuk-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/Yevhenii_polishchuk)
+[![Linkedin: Yevhenii Polishchuk](https://img.shields.io/badge/-YevheniiPolishchuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yevhenii-polishchuk/)](https://www.linkedin.com/in/Yevhenii-polishchuk/)
+[![GitHub: Yevhenii Polishchuk](https://img.shields.io/github/followers/casualjackie?label=follow&style=social)](https://github.com/casualjackie)
 
 ### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRkOXNwdjR2ZGFheTFybzVmaWxqb2RkZ2F1NXNvaWhiNWR5bjI1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const evgeniy = {
+const yevhenii = {
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: [
     "Next",
