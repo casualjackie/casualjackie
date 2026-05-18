@@ -1,4 +1,4 @@
-name: user-statistician
+name: User Statistician
 
 on:
   workflow_dispatch:
