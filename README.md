@@ -9,24 +9,20 @@
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/casualjackie)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-polishchuk/)
 
 ---
 
 ### 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CasualJackie&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CasualJackie&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=CasualJackie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://streak-stats.demolab.com?user=CasualJackie&theme=tokyonight&hide_border=true" height="170" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasualJackie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=CasualJackie&theme=tokyonight&hide_border=true" />
 
 ---
 
