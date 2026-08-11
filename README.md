@@ -16,7 +16,7 @@
 
 ### 🏆 Trophies
 
-[![trophy](https://github-trophies.vercel.app/?username=CasualJackie&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=CasualJackie&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=4&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
